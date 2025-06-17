@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 💻 Passionate about **PHP** backend development  
-- 📱 Currently learning **Dart & Flutter** for mobile apps  
+- 📱  **Dart & Flutter** for mobile apps  
 - 🛠 Building real-life projects to solve real-world problems  
 - 📍 Based in **Bangladesh**, focused on full-stack goals
 
