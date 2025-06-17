@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Riad Hasan 👨‍💻</h1>
-<h3 align="center">Web Developer | Learning Dart & Flutter </h3>
+<h3 align="center">Web Developer | Dart & Flutter </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=420&lines=I+build+websites+with+PHP.;Exploring+Dart+%26+Flutter+for+Apps.;Code.+Create.+Repeat." alt="Typing SVG" />
